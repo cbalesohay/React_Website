@@ -80,7 +80,7 @@ const Navbar = () => {
             <Logo src="./img/logo.png"/>
             <List>
                 <ListItem>Home</ListItem>
-                <ListItem>Studo</ListItem>
+                <ListItem>Studio</ListItem>
                 <ListItem>Works</ListItem>
                 <ListItem>Contact</ListItem>
             </List>
